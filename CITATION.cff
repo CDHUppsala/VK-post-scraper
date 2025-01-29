@@ -6,7 +6,7 @@ authors:
   - given-names: Dalia
     family-names: Ortiz Pablo
     affiliation: CDHU, Uppsala University
-repository-code: 'https://github.com/DaliaO15/VK-post-scraper'
+repository-code: 'https://github.com/CDHUppsala/VK-post-scraper'
 url: 'https://github.com/DaliaO15/VK-post-scraper'
 license: BSD-2
 version: 1.0.0
